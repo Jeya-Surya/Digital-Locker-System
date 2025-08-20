@@ -27,7 +27,7 @@ The project allows users to securely store, access, and manage digital documents
 📂 Project Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/digital-locker-system.git
+   git clone https://github.com/Jeya-Surya/Digital-Locker-System.git
 2. Open the project in any IDE (IntelliJ, Eclipse, VS Code).
 3. Compile and run the `Main.java` file.
 
